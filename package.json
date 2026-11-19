@@ -20,6 +20,7 @@
     "locale/*.json",
     "icon.svg",
     "README.md",
+    "LICENSE",
     "vendor/marked.umd.js",
     "vendor/marked.LICENSE.md",
     "vendor/marked.package.json"
