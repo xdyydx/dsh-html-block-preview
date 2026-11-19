@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "代码块预览",
+    "description": "为 HTML、SVG、Markdown 代码块添加「预览」开关，在沙箱 iframe 中渲染内容。"
+  }
+}

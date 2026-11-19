@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Code block preview",
+    "description": "Adds a preview toggle to HTML, SVG, and Markdown code blocks and renders them in a sandboxed frame."
+  }
+}
